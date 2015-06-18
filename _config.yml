@@ -2,9 +2,13 @@ url: http://gdgbirgunj.github.io/
 baseurl: /gdgbirgunj.org/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Google Developer Group Birgunj
+email: dipesh@gdgbirgunj.org
+description: "Google Developer Groups (GDGs) are for developers who are interested in Google’s developer technology; everything from the Android, Chrome, Drive, and Google Cloud platforms, to product APIs like the Cast API,Maps API, and YouTube API.
+
+A GDG can take many forms — from just a few people getting together to watch our latest video, to large gatherings with demos and tech talks, to events like code sprints and hackathons.
+
+However, at the core, GDGs are focused on developers and technical content, and the core audience should be developers."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
