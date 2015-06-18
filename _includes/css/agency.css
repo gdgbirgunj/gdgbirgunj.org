@@ -283,9 +283,9 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: 'Open Sans', sans-serif;
-    font-size: 9px;
+    font-size: 25px;
     font-style: bold;
-    line-height: 9px;
+    line-height: 25px;
 }
 
 header .intro-text .intro-heading {
