@@ -306,9 +306,9 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: 'Open Sans', sans-serif;
-        font-size: 40px;
-        font-style: italic;
-        line-height: 40px;
+        font-size: 45px;
+        font-style: bold;
+        line-height: 45px;
     }
 
     header .intro-text .intro-heading {
