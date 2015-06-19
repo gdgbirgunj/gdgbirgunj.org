@@ -12,8 +12,8 @@ However, at the core, GDGs are focused on developers and technical content, and 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: C6FF00
-  secondary: 1DE9B6  
+  primary: 1DE9B6
+  secondary: C6FF00 
   secondary-dark: 333
 
 # Team names, titles and social links
