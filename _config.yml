@@ -12,7 +12,7 @@ However, at the core, GDGs are focused on developers and technical content, and 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 78909C
+  primary: C6FF00
   secondary: 1DE9B6  
   secondary-dark: 333
 
@@ -23,11 +23,11 @@ people:
   position: Community Lead
   social:
     - title: twitter
-      url: #
+      url: http://twitter.com/aaryadip
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: http://facebook.com/thedidip
+    - title: google-plus
+      url: http://google.com/+DipeshKumar
 
 #- name: Larry Parker
 #  pic: 2
