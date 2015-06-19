@@ -1,16 +1,15 @@
 ---
-title: Google I/O
-subtitle: Extended
+title: Test
+subtitle: Test1
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2014-07-17
 img: dreams.png
-thumbnail: dreams-thumbnail.png
+thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Google I/O is an annual software developer-focused conference held by Google in San Francisco, California. Google I/O features highly technical, in-depth sessions focused on building web, mobile, and enterprise applications with Google and open web technologies such as Android, Chrome, Chrome OS, Google APIs, Google Web Toolkit, App Engine, and more.
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
-Google I/O was started in 2008. The "I" and "O" stand for input/output, and "Innovation in the Open". The format of the event is similar to that of the Google Developer Day.
 ---
