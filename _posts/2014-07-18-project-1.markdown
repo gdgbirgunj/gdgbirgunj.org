@@ -1,5 +1,5 @@
 ---
-title: Google I/O
+title: Google IO
 subtitle: Extended Global Series
 layout: default
 modal-id: 1
@@ -12,6 +12,6 @@ alt: image-alt
 category: Google
 description: Google I/O is an annual software developer-focused conference held by Google in San Francisco, California. Google I/O features highly technical, in-depth sessions focused on building web, mobile, and enterprise applications with Google and open web technologies such as Android, Chrome, Chrome OS, Google APIs, Google Web Toolkit, App Engine, and more.
 
-<br>Google I/O was started in 2008. The "I" and "O" stand for input/output, and "Innovation in the Open". The format of the event is similar to that of the Google Developer Day.
-<br> We GDG Birgunj are placing I/O extended since 2013. Find more at blog.gdgbirgunj.org
+Google I/O was started in 2008. The "I" and "O" stand for input/output, and "Innovation in the Open". The format of the event is similar to that of the Google Developer Day.
+We GDG Birgunj are placing I/O extended since 2013. Find more at blog.gdgbirgunj.org
 ---
