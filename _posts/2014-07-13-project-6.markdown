@@ -1,9 +1,9 @@
 ---
-title: Google IO
-subtitle: Extended Global Series
+title: Google IO Extended Series
+#subtitle: Graphic Design
 layout: default
-modal-id: 1
-date: 2014-07-17
+modal-id: 6
+date: 2014-07-15
 img: google-developers1.jpg
 thumbnail: google-developers.png
 alt: image-alt
@@ -14,4 +14,5 @@ description: Google I/O is an annual software developer-focused conference held 
 
 Google I/O was started in 2008. The "I" and "O" stand for input/output, and "Innovation in the Open". The format of the event is similar to that of the Google Developer Day.
 We GDG Birgunj are placing I/O extended since 2013. Find more at blog.gdgbirgunj.org
+
 ---
