@@ -29,16 +29,16 @@ people:
     - title: google-plus
       url: http://google.com/+DipeshKumar
 
-#- name: Larry Parker
-#  pic: 2
-#  position: Lead Marketer
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: linkedin
-#      url: #
+- name: Uday gupta
+  pic: 1
+  position: Club Co-Ordinator
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
 
 #- name: Diana Petersen
 #  pic: 3
@@ -57,10 +57,10 @@ social:
     url: http://twitter.com/gdgbirgunj
   - title: facebook
     url: http://facebook.com/gdgbirgunj
-  - title: Google Plus
+  - title: google-plus
     url: http://gplus.to/gdgbirgunj
-  - title: bitbucket 
-    url: #
+  - title: youtube 
+    url: http://youtube.com/gdgbirgunj
   - title: github
     url: http://github.com/gdgbirgunj
 
