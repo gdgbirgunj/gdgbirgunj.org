@@ -4,8 +4,8 @@ subtitle: Extended Global Series
 layout: default
 modal-id: 1
 date: 2014-07-17
-img: dreams.png
-thumbnail: escape-thumbnail.png
+img: google-developers1.jpg
+thumbnail: google-developers.png
 alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap
