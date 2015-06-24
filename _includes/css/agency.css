@@ -315,8 +315,8 @@ header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: capitalize;
        font-family: 'Open Sans', sans-serif;
-        font-size: 45px;
-        font-weight:100;
+        font-size: 18px;
+        font-weight:25;
         line-height: 75px;
     }
 }
