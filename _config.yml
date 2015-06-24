@@ -20,7 +20,7 @@ color:
 people:
 - name: Dipesh Kumar
   pic: 1
-  position: Community Lead
+  position: Community Lead, Developer
   social:
     - title: twitter
       url: http://twitter.com/aaryadip
@@ -29,9 +29,20 @@ people:
     - title: google-plus
       url: http://google.com/+DipeshKumar
 
-- name: Uday gupta
+- name: Uday Gupta
   pic: 1
-  position: Club Co-Ordinator
+  position: Club Co-Ordinator, 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rambabu Mahato
+  pic: 1
+  position: Member, Developer
   social:
     - title: twitter
       url: #
