@@ -19,7 +19,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Dipesh Kumar
-  pic: 1
+  pic: 2
   position: Community Lead, Developer
   social:
     - title: twitter
@@ -30,7 +30,7 @@ people:
       url: http://google.com/+DipeshKumar
 
 - name: Uday Gupta
-  pic: 1
+  pic: 3
   position: Club Co-Ordinator
   social:
     - title: twitter
