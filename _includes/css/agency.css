@@ -313,7 +313,7 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        text-transform: uppercase;
+        text-transform: capitalize;
        font-family: 'Open Sans', sans-serif;
         font-size: 45px;
         font-weight:100;
