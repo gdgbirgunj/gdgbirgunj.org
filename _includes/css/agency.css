@@ -290,11 +290,11 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-family: 'Open Sans', sans-serif;
     font-size: 40px;
-    font-weight: 100;
-    line-height: 75px;
+    font-weight: 25;
+    line-height: 25px;
 }
 
 @media(min-width:768px) {
