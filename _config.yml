@@ -20,7 +20,7 @@ color:
 people:
 - name: Dipesh Kumar
   pic: 2
-  position: Community Lead, Developer<br><a href="mailto:dipesh@gdgbirgunj.org?Subject=Hello%20again" target="_top">Send Mail</a>
+  position: Community Lead, Developer<br><a href="mailto:dipesh@gdgbirgunj.org?Subject=Hello%20again" target="_top">E-Mail&#58; dipesh@gdgbirgunj.org</a>
   social:
     - title: twitter
       url: http://twitter.com/aaryadip
@@ -31,7 +31,7 @@ people:
 
 - name: Uday Gupta
   pic: 3
-  position: Co-Ordinator<br><a href="mailto:udaygupta@gdgbirgunj.org?Subject=Hello%20again" target="_top">Send Mail</a>
+  position: Co-Ordinator<br><a href="mailto:udaygupta@gdgbirgunj.org?Subject=Hello%20again" target="_top">E-Mail&#58; udaygupta@gdgbirgunj.org</a>
   social:
     - title: twitter
       url: https://twitter.com/connectuday
