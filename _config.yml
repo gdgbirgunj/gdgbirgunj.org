@@ -44,12 +44,23 @@ people:
   pic: 1
   position: Member
   social:
-    - title: twitter
-      url: #
+#    - title: twitter
+#      url: #
     - title: facebook
       url: https://www.facebook.com/ram.honeyboy
     - title: google-plus
       url: https://plus.google.com/u/0/111115658793833402403/posts
+
+- name: Aditya Sharma
+  pic: 1
+  position: Member
+  social:
+    - title: twitter
+      url: https://twitter.com/aditya9972
+    - title: facebook
+      url: https://www.facebook.com/ADITYASHARMA7299
+    - title: google-plus
+      url: https://plus.google.com/u/0/117580754794858726936/posts
 
 #- name: Diana Petersen
 #  pic: 3
