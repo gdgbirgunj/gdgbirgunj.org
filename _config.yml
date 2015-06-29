@@ -20,7 +20,7 @@ color:
 people:
 - name: Dipesh Kumar
   pic: 2
-  position: Community Lead, Developer
+  position: Community Lead, Developer<br>dipesh@gdgbirgunj.org
   social:
     - title: twitter
       url: http://twitter.com/aaryadip
@@ -31,25 +31,25 @@ people:
 
 - name: Uday Gupta
   pic: 3
-  position: Club Co-Ordinator
+  position: Co-Ordinator<br>udaygupta@gdgbirgunj.org
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/connectuday
     - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: https://www.facebook.com/udaygupta01
+    - title: google-plus
+      url: https://plus.google.com/u/0/+UdayGupta01/posts
 
 - name: Rambabu Mahato
   pic: 1
-  position: Member, Developer
+  position: Member
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: https://www.facebook.com/ram.honeyboy
+    - title: google-plus
+      url: https://plus.google.com/u/0/111115658793833402403/posts
 
 #- name: Diana Petersen
 #  pic: 3
