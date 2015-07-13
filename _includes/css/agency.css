@@ -276,7 +276,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 52px;
+    padding-top: 50px;
     padding-bottom: 50px;
 }
 
@@ -306,16 +306,16 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family:  Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 45px;	
+        font-size: 2em;	
         font-style: bold;
         
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 52px;
+        margin-bottom: 50px;
         text-transform: none;
         font-family:  Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 18px;	
+        font-size: 0.5em;	
         font-weight:25;
         
     }
