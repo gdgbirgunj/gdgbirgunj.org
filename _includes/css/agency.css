@@ -649,6 +649,11 @@ section#contact .text-danger {
     color: #e74c3c;
 }
 
+section#footer {
+    background-color: #90A4AE;
+    
+}
+
 footer {
     padding: 25px 0;
     text-align: center;
