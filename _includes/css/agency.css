@@ -341,9 +341,9 @@ section h3.section-subheading {
     
 }
 
-@media(min-width:700px) {
+@media(min-width:650px) {
     section {
-        padding: 75px 0;
+        padding: 85px 0;
     }
 }
 
