@@ -655,14 +655,14 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #AB47BC;
+    background-color: #fff;
     background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: #000;
 }
 
 section#contact .form-group {
