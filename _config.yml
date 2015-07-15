@@ -50,7 +50,7 @@ people:
 
 - name: Nitesh Chaurasiya
   pic: 1
-  position: SemiConductor Engineer<br>Tessolve Semiconductor
+  position: Devloper<br>Tessolve Semiconductor
   social:
     - title: twitter
       url: https://twitter.com/NITESCHAURASIYA
@@ -61,7 +61,7 @@ people:
 
 - name: Rambabu Mahato
   pic: 1
-  position: Member, Developer
+  position: Member, Developer<br>Teacher
   social:
 #    - title: twitter
 #      url: #
