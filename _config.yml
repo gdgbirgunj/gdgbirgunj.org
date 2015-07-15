@@ -17,7 +17,7 @@ color:
 people:
 - name: Dipesh Kumar
   pic: 2
-  position: Community Lead, Developer<br><a href="mailto:dipesh009@gmail.com?Subject=Hello%20again" target="_top">E-Mail&#58; dipesh009@gmail.com</a>
+  position: Community Lead, Developer
   social:
     - title: twitter
       url: http://twitter.com/aaryadip
@@ -28,7 +28,7 @@ people:
 
 - name: Uday Gupta
   pic: 3
-  position: Co-Ordinator<br><a href="mailto:udaygupta@gdgbirgunj.org?Subject=Hello%20again" target="_top">E-Mail&#58; udaygupta@gdgbirgunj.org</a>
+  position: Co-Ordinator
   social:
     - title: twitter
       url: https://twitter.com/connectuday
@@ -37,9 +37,31 @@ people:
     - title: google-plus
       url: https://plus.google.com/u/0/+UdayGupta01/posts
 
+- name: Aditya Sharma
+  pic: 1
+  position: Java Developer<br>HCL Infosystem
+  social:
+    - title: twitter
+      url: https://twitter.com/aditya9972
+    - title: facebook
+      url: https://www.facebook.com/ADITYASHARMA7299
+    - title: google-plus
+      url: https://plus.google.com/u/0/117580754794858726936/posts
+
+- name: Nitesh Chaurasiya
+  pic: 1
+  position: SemiConductor Engineer<br>Tessolve Semiconductor
+  social:
+    - title: twitter
+      url: https://twitter.com/NITESCHAURASIYA
+    - title: facebook
+      url: https://www.facebook.com/nitesh.chaurasiya
+    - title: google-plus
+      url: https://plus.google.com/u/0/106365601607685914904/posts
+
 - name: Rambabu Mahato
   pic: 1
-  position: Member
+  position: Member, Developer
   social:
 #    - title: twitter
 #      url: #
@@ -48,16 +70,6 @@ people:
     - title: google-plus
       url: https://plus.google.com/u/0/111115658793833402403/posts
 
-- name: Aditya Sharma
-  pic: 1
-  position: Developer<br>HCL Infosystem
-  social:
-    - title: twitter
-      url: https://twitter.com/aditya9972
-    - title: facebook
-      url: https://www.facebook.com/ADITYASHARMA7299
-    - title: google-plus
-      url: https://plus.google.com/u/0/117580754794858726936/posts
 
 #- name: Diana Petersen
 #  pic: 3
