@@ -9,7 +9,7 @@ description: "Google Developer Group Birgunj is a dynamic community of passionat
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 1DE9B6
-  secondary: C6FF00 
+  secondary: 2196F3 
   secondary-dark: 333
 
 # Team names, titles and social links
