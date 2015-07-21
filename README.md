@@ -25,5 +25,5 @@ Just replace with the name in your repo to change the icon of your desired conte
 <a href="https://about.me/dipeshkumar">Dipesh Kumar</a> (google.com/+DipeshKumar)
 
 ###License
-Apache Licens Version 2.0
+Apache License Version 2.0
 
