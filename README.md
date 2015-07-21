@@ -1,6 +1,10 @@
 
 # How to use
 
+###LIVE DEMO
+<a href="https://gdgbirgunj.org">https://gdgbirgunj.org</a>
+
+
 
 Images are in '/img/portfolio'
 
@@ -25,5 +29,5 @@ Just replace with the name in your repo to change the icon of your desired conte
 <a href="https://about.me/dipeshkumar">Dipesh Kumar</a> (google.com/+DipeshKumar)
 
 ###License
-Apache License Version 2.0
+Apache Licens Version 2.0
 
